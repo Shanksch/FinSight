@@ -1,0 +1,306 @@
+2026-05-03 03:00:22,730 | INFO | fetch_stocks | === Fetch started | total_tickers=50 ===
+2026-05-03 03:00:22,731 | INFO | fetch_stocks | [1/50] Processing | ticker=RELIANCE.NS
+2026-05-03 03:00:25,167 | INFO | fetch_stocks | Initial fetch | ticker=RELIANCE.NS
+2026-05-03 03:00:30,422 | INFO | fetch_stocks | Stored 248 rows | ticker=RELIANCE.NS
+2026-05-03 03:00:30,924 | INFO | fetch_stocks | [2/50] Processing | ticker=TCS.NS
+2026-05-03 03:00:31,599 | INFO | fetch_stocks | Initial fetch | ticker=TCS.NS
+2026-05-03 03:00:32,663 | INFO | fetch_stocks | Stored 248 rows | ticker=TCS.NS
+2026-05-03 03:00:33,164 | INFO | fetch_stocks | [3/50] Processing | ticker=HDFCBANK.NS
+2026-05-03 03:00:33,848 | INFO | fetch_stocks | Initial fetch | ticker=HDFCBANK.NS
+2026-05-03 03:00:34,887 | INFO | fetch_stocks | Stored 248 rows | ticker=HDFCBANK.NS
+2026-05-03 03:00:35,391 | INFO | fetch_stocks | [4/50] Processing | ticker=INFY.NS
+2026-05-03 03:00:36,058 | INFO | fetch_stocks | Initial fetch | ticker=INFY.NS
+2026-05-03 03:00:37,175 | INFO | fetch_stocks | Stored 248 rows | ticker=INFY.NS
+2026-05-03 03:00:37,676 | INFO | fetch_stocks | [5/50] Processing | ticker=ICICIBANK.NS
+2026-05-03 03:00:38,362 | INFO | fetch_stocks | Initial fetch | ticker=ICICIBANK.NS
+2026-05-03 03:00:39,421 | INFO | fetch_stocks | Stored 248 rows | ticker=ICICIBANK.NS
+2026-05-03 03:00:39,925 | INFO | fetch_stocks | [6/50] Processing | ticker=HINDUNILVR.NS
+2026-05-03 03:00:40,577 | INFO | fetch_stocks | Initial fetch | ticker=HINDUNILVR.NS
+2026-05-03 03:00:41,634 | INFO | fetch_stocks | Stored 248 rows | ticker=HINDUNILVR.NS
+2026-05-03 03:00:42,135 | INFO | fetch_stocks | [7/50] Processing | ticker=ITC.NS
+2026-05-03 03:00:42,812 | INFO | fetch_stocks | Initial fetch | ticker=ITC.NS
+2026-05-03 03:00:43,906 | INFO | fetch_stocks | Stored 248 rows | ticker=ITC.NS
+2026-05-03 03:00:44,408 | INFO | fetch_stocks | [8/50] Processing | ticker=SBIN.NS
+2026-05-03 03:00:45,074 | INFO | fetch_stocks | Initial fetch | ticker=SBIN.NS
+2026-05-03 03:00:46,152 | INFO | fetch_stocks | Stored 248 rows | ticker=SBIN.NS
+2026-05-03 03:00:46,656 | INFO | fetch_stocks | [9/50] Processing | ticker=BHARTIARTL.NS
+2026-05-03 03:00:47,325 | INFO | fetch_stocks | Initial fetch | ticker=BHARTIARTL.NS
+2026-05-03 03:00:48,323 | INFO | fetch_stocks | Stored 248 rows | ticker=BHARTIARTL.NS
+2026-05-03 03:00:48,833 | INFO | fetch_stocks | [10/50] Processing | ticker=KOTAKBANK.NS
+2026-05-03 03:00:49,514 | INFO | fetch_stocks | Initial fetch | ticker=KOTAKBANK.NS
+2026-05-03 03:00:50,588 | INFO | fetch_stocks | Stored 248 rows | ticker=KOTAKBANK.NS
+2026-05-03 03:00:51,089 | INFO | fetch_stocks | [11/50] Processing | ticker=LT.NS
+2026-05-03 03:00:52,188 | INFO | fetch_stocks | Initial fetch | ticker=LT.NS
+2026-05-03 03:00:53,241 | INFO | fetch_stocks | Stored 248 rows | ticker=LT.NS
+2026-05-03 03:00:53,742 | INFO | fetch_stocks | [12/50] Processing | ticker=AXISBANK.NS
+2026-05-03 03:00:54,414 | INFO | fetch_stocks | Initial fetch | ticker=AXISBANK.NS
+2026-05-03 03:00:55,473 | INFO | fetch_stocks | Stored 248 rows | ticker=AXISBANK.NS
+2026-05-03 03:00:55,974 | INFO | fetch_stocks | [13/50] Processing | ticker=ASIANPAINT.NS
+2026-05-03 03:00:56,646 | INFO | fetch_stocks | Initial fetch | ticker=ASIANPAINT.NS
+2026-05-03 03:00:57,701 | INFO | fetch_stocks | Stored 248 rows | ticker=ASIANPAINT.NS
+2026-05-03 03:00:58,203 | INFO | fetch_stocks | [14/50] Processing | ticker=MARUTI.NS
+2026-05-03 03:00:58,848 | INFO | fetch_stocks | Initial fetch | ticker=MARUTI.NS
+2026-05-03 03:00:59,909 | INFO | fetch_stocks | Stored 248 rows | ticker=MARUTI.NS
+2026-05-03 03:01:00,410 | INFO | fetch_stocks | [15/50] Processing | ticker=TITAN.NS
+2026-05-03 03:01:01,075 | INFO | fetch_stocks | Initial fetch | ticker=TITAN.NS
+2026-05-03 03:01:02,203 | INFO | fetch_stocks | Stored 248 rows | ticker=TITAN.NS
+2026-05-03 03:01:02,705 | INFO | fetch_stocks | [16/50] Processing | ticker=SUNPHARMA.NS
+2026-05-03 03:01:03,375 | INFO | fetch_stocks | Initial fetch | ticker=SUNPHARMA.NS
+2026-05-03 03:01:04,485 | INFO | fetch_stocks | Stored 248 rows | ticker=SUNPHARMA.NS
+2026-05-03 03:01:04,988 | INFO | fetch_stocks | [17/50] Processing | ticker=ULTRACEMCO.NS
+2026-05-03 03:01:05,652 | INFO | fetch_stocks | Initial fetch | ticker=ULTRACEMCO.NS
+2026-05-03 03:01:06,686 | INFO | fetch_stocks | Stored 248 rows | ticker=ULTRACEMCO.NS
+2026-05-03 03:01:07,191 | INFO | fetch_stocks | [18/50] Processing | ticker=BAJFINANCE.NS
+2026-05-03 03:01:07,839 | INFO | fetch_stocks | Initial fetch | ticker=BAJFINANCE.NS
+2026-05-03 03:01:08,872 | INFO | fetch_stocks | Stored 248 rows | ticker=BAJFINANCE.NS
+2026-05-03 03:01:09,373 | INFO | fetch_stocks | [19/50] Processing | ticker=WIPRO.NS
+2026-05-03 03:01:10,045 | INFO | fetch_stocks | Initial fetch | ticker=WIPRO.NS
+2026-05-03 03:01:11,139 | INFO | fetch_stocks | Stored 248 rows | ticker=WIPRO.NS
+2026-05-03 03:01:11,641 | INFO | fetch_stocks | [20/50] Processing | ticker=NESTLEIND.NS
+2026-05-03 03:01:12,312 | INFO | fetch_stocks | Initial fetch | ticker=NESTLEIND.NS
+2026-05-03 03:01:13,357 | INFO | fetch_stocks | Stored 248 rows | ticker=NESTLEIND.NS
+2026-05-03 03:01:13,858 | INFO | fetch_stocks | [21/50] Processing | ticker=POWERGRID.NS
+2026-05-03 03:01:14,619 | INFO | fetch_stocks | Initial fetch | ticker=POWERGRID.NS
+2026-05-03 03:01:15,685 | INFO | fetch_stocks | Stored 248 rows | ticker=POWERGRID.NS
+2026-05-03 03:01:16,187 | INFO | fetch_stocks | [22/50] Processing | ticker=NTPC.NS
+2026-05-03 03:01:16,902 | INFO | fetch_stocks | Initial fetch | ticker=NTPC.NS
+2026-05-03 03:01:18,140 | INFO | fetch_stocks | Stored 248 rows | ticker=NTPC.NS
+2026-05-03 03:01:18,642 | INFO | fetch_stocks | [23/50] Processing | ticker=TECHM.NS
+2026-05-03 03:01:19,322 | INFO | fetch_stocks | Initial fetch | ticker=TECHM.NS
+2026-05-03 03:01:20,419 | INFO | fetch_stocks | Stored 248 rows | ticker=TECHM.NS
+2026-05-03 03:01:20,921 | INFO | fetch_stocks | [24/50] Processing | ticker=HCLTECH.NS
+2026-05-03 03:01:21,588 | INFO | fetch_stocks | Initial fetch | ticker=HCLTECH.NS
+2026-05-03 03:01:22,686 | INFO | fetch_stocks | Stored 248 rows | ticker=HCLTECH.NS
+2026-05-03 03:01:23,187 | INFO | fetch_stocks | [25/50] Processing | ticker=ONGC.NS
+2026-05-03 03:01:23,853 | INFO | fetch_stocks | Initial fetch | ticker=ONGC.NS
+2026-05-03 03:01:24,921 | INFO | fetch_stocks | Stored 248 rows | ticker=ONGC.NS
+2026-05-03 03:01:25,423 | INFO | fetch_stocks | [26/50] Processing | ticker=TATAMOTORS.NS
+2026-05-03 03:01:26,080 | INFO | fetch_stocks | Initial fetch | ticker=TATAMOTORS.NS
+2026-05-03 03:01:28,439 | INFO | fetch_stocks | No new data | ticker=TATAMOTORS.NS
+2026-05-03 03:01:28,940 | INFO | fetch_stocks | [27/50] Processing | ticker=TATASTEEL.NS
+2026-05-03 03:01:29,620 | INFO | fetch_stocks | Initial fetch | ticker=TATASTEEL.NS
+2026-05-03 03:01:30,913 | INFO | fetch_stocks | Stored 248 rows | ticker=TATASTEEL.NS
+2026-05-03 03:01:31,414 | INFO | fetch_stocks | [28/50] Processing | ticker=BAJAJFINSV.NS
+2026-05-03 03:01:32,094 | INFO | fetch_stocks | Initial fetch | ticker=BAJAJFINSV.NS
+2026-05-03 03:01:33,490 | INFO | fetch_stocks | Stored 248 rows | ticker=BAJAJFINSV.NS
+2026-05-03 03:01:33,992 | INFO | fetch_stocks | [29/50] Processing | ticker=ADANIENT.NS
+2026-05-03 03:01:34,673 | INFO | fetch_stocks | Initial fetch | ticker=ADANIENT.NS
+2026-05-03 03:01:35,731 | INFO | fetch_stocks | Stored 248 rows | ticker=ADANIENT.NS
+2026-05-03 03:01:36,233 | INFO | fetch_stocks | [30/50] Processing | ticker=ADANIPORTS.NS
+2026-05-03 03:01:36,928 | INFO | fetch_stocks | Initial fetch | ticker=ADANIPORTS.NS
+2026-05-03 03:01:38,022 | INFO | fetch_stocks | Stored 248 rows | ticker=ADANIPORTS.NS
+2026-05-03 03:01:38,523 | INFO | fetch_stocks | [31/50] Processing | ticker=COALINDIA.NS
+2026-05-03 03:01:39,202 | INFO | fetch_stocks | Initial fetch | ticker=COALINDIA.NS
+2026-05-03 03:01:40,301 | INFO | fetch_stocks | Stored 248 rows | ticker=COALINDIA.NS
+2026-05-03 03:01:40,803 | INFO | fetch_stocks | [32/50] Processing | ticker=DIVISLAB.NS
+2026-05-03 03:01:41,474 | INFO | fetch_stocks | Initial fetch | ticker=DIVISLAB.NS
+2026-05-03 03:01:42,554 | INFO | fetch_stocks | Stored 248 rows | ticker=DIVISLAB.NS
+2026-05-03 03:01:43,055 | INFO | fetch_stocks | [33/50] Processing | ticker=DRREDDY.NS
+2026-05-03 03:01:43,727 | INFO | fetch_stocks | Initial fetch | ticker=DRREDDY.NS
+2026-05-03 03:01:44,818 | INFO | fetch_stocks | Stored 248 rows | ticker=DRREDDY.NS
+2026-05-03 03:01:45,324 | INFO | fetch_stocks | [34/50] Processing | ticker=EICHERMOT.NS
+2026-05-03 03:01:46,002 | INFO | fetch_stocks | Initial fetch | ticker=EICHERMOT.NS
+2026-05-03 03:01:47,038 | INFO | fetch_stocks | Stored 248 rows | ticker=EICHERMOT.NS
+2026-05-03 03:01:47,542 | INFO | fetch_stocks | [35/50] Processing | ticker=GRASIM.NS
+2026-05-03 03:01:48,226 | INFO | fetch_stocks | Initial fetch | ticker=GRASIM.NS
+2026-05-03 03:01:49,326 | INFO | fetch_stocks | Stored 248 rows | ticker=GRASIM.NS
+2026-05-03 03:01:49,827 | INFO | fetch_stocks | [36/50] Processing | ticker=HEROMOTOCO.NS
+2026-05-03 03:01:50,485 | INFO | fetch_stocks | Initial fetch | ticker=HEROMOTOCO.NS
+2026-05-03 03:01:51,556 | INFO | fetch_stocks | Stored 248 rows | ticker=HEROMOTOCO.NS
+2026-05-03 03:01:52,058 | INFO | fetch_stocks | [37/50] Processing | ticker=HINDALCO.NS
+2026-05-03 03:01:52,708 | INFO | fetch_stocks | Initial fetch | ticker=HINDALCO.NS
+2026-05-03 03:01:53,763 | INFO | fetch_stocks | Stored 248 rows | ticker=HINDALCO.NS
+2026-05-03 03:01:54,268 | INFO | fetch_stocks | [38/50] Processing | ticker=JSWSTEEL.NS
+2026-05-03 03:01:54,957 | INFO | fetch_stocks | Initial fetch | ticker=JSWSTEEL.NS
+2026-05-03 03:01:56,006 | INFO | fetch_stocks | Stored 248 rows | ticker=JSWSTEEL.NS
+2026-05-03 03:01:56,508 | INFO | fetch_stocks | [39/50] Processing | ticker=M&M.NS
+2026-05-03 03:01:57,169 | INFO | fetch_stocks | Initial fetch | ticker=M&M.NS
+2026-05-03 03:01:58,273 | INFO | fetch_stocks | Stored 248 rows | ticker=M&M.NS
+2026-05-03 03:01:58,777 | INFO | fetch_stocks | [40/50] Processing | ticker=BRITANNIA.NS
+2026-05-03 03:01:59,456 | INFO | fetch_stocks | Initial fetch | ticker=BRITANNIA.NS
+2026-05-03 03:02:00,610 | INFO | fetch_stocks | Stored 248 rows | ticker=BRITANNIA.NS
+2026-05-03 03:02:01,112 | INFO | fetch_stocks | [41/50] Processing | ticker=CIPLA.NS
+2026-05-03 03:02:01,771 | INFO | fetch_stocks | Initial fetch | ticker=CIPLA.NS
+2026-05-03 03:02:02,829 | INFO | fetch_stocks | Stored 248 rows | ticker=CIPLA.NS
+2026-05-03 03:02:03,331 | INFO | fetch_stocks | [42/50] Processing | ticker=APOLLOHOSP.NS
+2026-05-03 03:02:03,984 | INFO | fetch_stocks | Initial fetch | ticker=APOLLOHOSP.NS
+2026-05-03 03:02:05,060 | INFO | fetch_stocks | Stored 248 rows | ticker=APOLLOHOSP.NS
+2026-05-03 03:02:05,561 | INFO | fetch_stocks | [43/50] Processing | ticker=BAJAJ-AUTO.NS
+2026-05-03 03:02:06,237 | INFO | fetch_stocks | Initial fetch | ticker=BAJAJ-AUTO.NS
+2026-05-03 03:02:07,290 | INFO | fetch_stocks | Stored 248 rows | ticker=BAJAJ-AUTO.NS
+2026-05-03 03:02:07,791 | INFO | fetch_stocks | [44/50] Processing | ticker=BPCL.NS
+2026-05-03 03:02:08,448 | INFO | fetch_stocks | Initial fetch | ticker=BPCL.NS
+2026-05-03 03:02:09,524 | INFO | fetch_stocks | Stored 248 rows | ticker=BPCL.NS
+2026-05-03 03:02:10,027 | INFO | fetch_stocks | [45/50] Processing | ticker=SBILIFE.NS
+2026-05-03 03:02:10,695 | INFO | fetch_stocks | Initial fetch | ticker=SBILIFE.NS
+2026-05-03 03:02:11,721 | INFO | fetch_stocks | Stored 248 rows | ticker=SBILIFE.NS
+2026-05-03 03:02:12,222 | INFO | fetch_stocks | [46/50] Processing | ticker=HDFCLIFE.NS
+2026-05-03 03:02:12,890 | INFO | fetch_stocks | Initial fetch | ticker=HDFCLIFE.NS
+2026-05-03 03:02:13,910 | INFO | fetch_stocks | Stored 248 rows | ticker=HDFCLIFE.NS
+2026-05-03 03:02:14,411 | INFO | fetch_stocks | [47/50] Processing | ticker=INDUSINDBK.NS
+2026-05-03 03:02:15,096 | INFO | fetch_stocks | Initial fetch | ticker=INDUSINDBK.NS
+2026-05-03 03:02:16,148 | INFO | fetch_stocks | Stored 248 rows | ticker=INDUSINDBK.NS
+2026-05-03 03:02:16,649 | INFO | fetch_stocks | [48/50] Processing | ticker=TATACONSUM.NS
+2026-05-03 03:02:17,314 | INFO | fetch_stocks | Initial fetch | ticker=TATACONSUM.NS
+2026-05-03 03:02:18,370 | INFO | fetch_stocks | Stored 248 rows | ticker=TATACONSUM.NS
+2026-05-03 03:02:18,872 | INFO | fetch_stocks | [49/50] Processing | ticker=UPL.NS
+2026-05-03 03:02:19,539 | INFO | fetch_stocks | Initial fetch | ticker=UPL.NS
+2026-05-03 03:02:20,590 | INFO | fetch_stocks | Stored 248 rows | ticker=UPL.NS
+2026-05-03 03:02:21,090 | INFO | fetch_stocks | [50/50] Processing | ticker=VEDL.NS
+2026-05-03 03:02:21,749 | INFO | fetch_stocks | Initial fetch | ticker=VEDL.NS
+2026-05-03 03:02:23,000 | INFO | fetch_stocks | Stored 248 rows | ticker=VEDL.NS
+2026-05-03 03:02:23,501 | INFO | fetch_stocks | === Fetch complete | total_rows=12152 ===
+2026-05-03 03:02:23,501 | WARNING | fetch_stocks | No new data or errors: ['TATAMOTORS.NS']
+2026-05-03 03:10:26,402 | INFO | fetch_stocks | === Fetch started | total_tickers=50 ===
+2026-05-03 03:10:26,403 | INFO | fetch_stocks | [1/50] Processing | ticker=RELIANCE.NS
+2026-05-03 03:10:28,859 | INFO | fetch_stocks | Incremental fetch | ticker=RELIANCE.NS | from=2026-04-30
+2026-05-03 03:10:29,762 | INFO | fetch_stocks | No new data | ticker=RELIANCE.NS
+2026-05-03 03:10:30,265 | INFO | fetch_stocks | [2/50] Processing | ticker=TCS.NS
+2026-05-03 03:10:30,972 | INFO | fetch_stocks | Incremental fetch | ticker=TCS.NS | from=2026-04-30
+2026-05-03 03:10:31,317 | INFO | fetch_stocks | No new data | ticker=TCS.NS
+2026-05-03 03:10:31,825 | INFO | fetch_stocks | [3/50] Processing | ticker=HDFCBANK.NS
+2026-05-03 03:10:32,547 | INFO | fetch_stocks | Incremental fetch | ticker=HDFCBANK.NS | from=2026-04-30
+2026-05-03 03:10:32,849 | INFO | fetch_stocks | No new data | ticker=HDFCBANK.NS
+2026-05-03 03:10:33,352 | INFO | fetch_stocks | [4/50] Processing | ticker=INFY.NS
+2026-05-03 03:10:34,065 | INFO | fetch_stocks | Incremental fetch | ticker=INFY.NS | from=2026-04-30
+2026-05-03 03:10:34,386 | INFO | fetch_stocks | No new data | ticker=INFY.NS
+2026-05-03 03:10:34,887 | INFO | fetch_stocks | [5/50] Processing | ticker=ICICIBANK.NS
+2026-05-03 03:10:35,603 | INFO | fetch_stocks | Incremental fetch | ticker=ICICIBANK.NS | from=2026-04-30
+2026-05-03 03:10:35,879 | INFO | fetch_stocks | No new data | ticker=ICICIBANK.NS
+2026-05-03 03:10:36,380 | INFO | fetch_stocks | [6/50] Processing | ticker=HINDUNILVR.NS
+2026-05-03 03:10:37,092 | INFO | fetch_stocks | Incremental fetch | ticker=HINDUNILVR.NS | from=2026-04-30
+2026-05-03 03:10:37,403 | INFO | fetch_stocks | No new data | ticker=HINDUNILVR.NS
+2026-05-03 03:10:37,908 | INFO | fetch_stocks | [7/50] Processing | ticker=ITC.NS
+2026-05-03 03:10:38,627 | INFO | fetch_stocks | Incremental fetch | ticker=ITC.NS | from=2026-04-30
+2026-05-03 03:10:38,934 | INFO | fetch_stocks | No new data | ticker=ITC.NS
+2026-05-03 03:10:39,435 | INFO | fetch_stocks | [8/50] Processing | ticker=SBIN.NS
+2026-05-03 03:10:40,145 | INFO | fetch_stocks | Incremental fetch | ticker=SBIN.NS | from=2026-04-30
+2026-05-03 03:10:40,462 | INFO | fetch_stocks | No new data | ticker=SBIN.NS
+2026-05-03 03:10:40,966 | INFO | fetch_stocks | [9/50] Processing | ticker=BHARTIARTL.NS
+2026-05-03 03:10:41,669 | INFO | fetch_stocks | Incremental fetch | ticker=BHARTIARTL.NS | from=2026-04-30
+2026-05-03 03:10:41,988 | INFO | fetch_stocks | No new data | ticker=BHARTIARTL.NS
+2026-05-03 03:10:42,491 | INFO | fetch_stocks | [10/50] Processing | ticker=KOTAKBANK.NS
+2026-05-03 03:10:43,212 | INFO | fetch_stocks | Incremental fetch | ticker=KOTAKBANK.NS | from=2026-04-30
+2026-05-03 03:10:43,522 | INFO | fetch_stocks | No new data | ticker=KOTAKBANK.NS
+2026-05-03 03:10:44,023 | INFO | fetch_stocks | [11/50] Processing | ticker=LT.NS
+2026-05-03 03:10:44,714 | INFO | fetch_stocks | Incremental fetch | ticker=LT.NS | from=2026-04-30
+2026-05-03 03:10:45,012 | INFO | fetch_stocks | No new data | ticker=LT.NS
+2026-05-03 03:10:45,513 | INFO | fetch_stocks | [12/50] Processing | ticker=AXISBANK.NS
+2026-05-03 03:10:46,219 | INFO | fetch_stocks | Incremental fetch | ticker=AXISBANK.NS | from=2026-04-30
+2026-05-03 03:10:46,535 | INFO | fetch_stocks | No new data | ticker=AXISBANK.NS
+2026-05-03 03:10:47,038 | INFO | fetch_stocks | [13/50] Processing | ticker=ASIANPAINT.NS
+2026-05-03 03:10:47,738 | INFO | fetch_stocks | Incremental fetch | ticker=ASIANPAINT.NS | from=2026-04-30
+2026-05-03 03:10:48,028 | INFO | fetch_stocks | No new data | ticker=ASIANPAINT.NS
+2026-05-03 03:10:48,530 | INFO | fetch_stocks | [14/50] Processing | ticker=MARUTI.NS
+2026-05-03 03:10:49,244 | INFO | fetch_stocks | Incremental fetch | ticker=MARUTI.NS | from=2026-04-30
+2026-05-03 03:10:49,560 | INFO | fetch_stocks | No new data | ticker=MARUTI.NS
+2026-05-03 03:10:50,061 | INFO | fetch_stocks | [15/50] Processing | ticker=TITAN.NS
+2026-05-03 03:10:50,789 | INFO | fetch_stocks | Incremental fetch | ticker=TITAN.NS | from=2026-04-30
+2026-05-03 03:10:51,117 | INFO | fetch_stocks | No new data | ticker=TITAN.NS
+2026-05-03 03:10:51,618 | INFO | fetch_stocks | [16/50] Processing | ticker=SUNPHARMA.NS
+2026-05-03 03:10:52,333 | INFO | fetch_stocks | Incremental fetch | ticker=SUNPHARMA.NS | from=2026-04-30
+2026-05-03 03:10:52,658 | INFO | fetch_stocks | No new data | ticker=SUNPHARMA.NS
+2026-05-03 03:10:53,161 | INFO | fetch_stocks | [17/50] Processing | ticker=ULTRACEMCO.NS
+2026-05-03 03:10:53,900 | INFO | fetch_stocks | Incremental fetch | ticker=ULTRACEMCO.NS | from=2026-04-30
+2026-05-03 03:10:54,223 | INFO | fetch_stocks | No new data | ticker=ULTRACEMCO.NS
+2026-05-03 03:10:54,724 | INFO | fetch_stocks | [18/50] Processing | ticker=BAJFINANCE.NS
+2026-05-03 03:10:55,422 | INFO | fetch_stocks | Incremental fetch | ticker=BAJFINANCE.NS | from=2026-04-30
+2026-05-03 03:10:55,711 | INFO | fetch_stocks | No new data | ticker=BAJFINANCE.NS
+2026-05-03 03:10:56,214 | INFO | fetch_stocks | [19/50] Processing | ticker=WIPRO.NS
+2026-05-03 03:10:56,921 | INFO | fetch_stocks | Incremental fetch | ticker=WIPRO.NS | from=2026-04-30
+2026-05-03 03:10:57,286 | INFO | fetch_stocks | No new data | ticker=WIPRO.NS
+2026-05-03 03:10:57,786 | INFO | fetch_stocks | [20/50] Processing | ticker=NESTLEIND.NS
+2026-05-03 03:10:58,493 | INFO | fetch_stocks | Incremental fetch | ticker=NESTLEIND.NS | from=2026-04-30
+2026-05-03 03:10:58,809 | INFO | fetch_stocks | No new data | ticker=NESTLEIND.NS
+2026-05-03 03:10:59,312 | INFO | fetch_stocks | [21/50] Processing | ticker=POWERGRID.NS
+2026-05-03 03:11:00,043 | INFO | fetch_stocks | Incremental fetch | ticker=POWERGRID.NS | from=2026-04-30
+2026-05-03 03:11:00,347 | INFO | fetch_stocks | No new data | ticker=POWERGRID.NS
+2026-05-03 03:11:00,850 | INFO | fetch_stocks | [22/50] Processing | ticker=NTPC.NS
+2026-05-03 03:11:01,558 | INFO | fetch_stocks | Incremental fetch | ticker=NTPC.NS | from=2026-04-30
+2026-05-03 03:11:01,882 | INFO | fetch_stocks | No new data | ticker=NTPC.NS
+2026-05-03 03:11:02,385 | INFO | fetch_stocks | [23/50] Processing | ticker=TECHM.NS
+2026-05-03 03:11:03,063 | INFO | fetch_stocks | Incremental fetch | ticker=TECHM.NS | from=2026-04-30
+2026-05-03 03:11:03,382 | INFO | fetch_stocks | No new data | ticker=TECHM.NS
+2026-05-03 03:11:03,884 | INFO | fetch_stocks | [24/50] Processing | ticker=HCLTECH.NS
+2026-05-03 03:11:04,575 | INFO | fetch_stocks | Incremental fetch | ticker=HCLTECH.NS | from=2026-04-30
+2026-05-03 03:11:04,911 | INFO | fetch_stocks | No new data | ticker=HCLTECH.NS
+2026-05-03 03:11:05,413 | INFO | fetch_stocks | [25/50] Processing | ticker=ONGC.NS
+2026-05-03 03:11:06,127 | INFO | fetch_stocks | Incremental fetch | ticker=ONGC.NS | from=2026-04-30
+2026-05-03 03:11:06,443 | INFO | fetch_stocks | No new data | ticker=ONGC.NS
+2026-05-03 03:11:06,945 | INFO | fetch_stocks | [26/50] Processing | ticker=TATAMOTORS.NS
+2026-05-03 03:11:07,644 | INFO | fetch_stocks | Initial fetch | ticker=TATAMOTORS.NS
+2026-05-03 03:11:09,982 | INFO | fetch_stocks | No new data | ticker=TATAMOTORS.NS
+2026-05-03 03:11:10,484 | INFO | fetch_stocks | [27/50] Processing | ticker=TATASTEEL.NS
+2026-05-03 03:11:11,323 | INFO | fetch_stocks | Incremental fetch | ticker=TATASTEEL.NS | from=2026-04-30
+2026-05-03 03:11:11,650 | INFO | fetch_stocks | No new data | ticker=TATASTEEL.NS
+2026-05-03 03:11:12,151 | INFO | fetch_stocks | [28/50] Processing | ticker=BAJAJFINSV.NS
+2026-05-03 03:11:12,847 | INFO | fetch_stocks | Incremental fetch | ticker=BAJAJFINSV.NS | from=2026-04-30
+2026-05-03 03:11:13,172 | INFO | fetch_stocks | No new data | ticker=BAJAJFINSV.NS
+2026-05-03 03:11:13,672 | INFO | fetch_stocks | [29/50] Processing | ticker=ADANIENT.NS
+2026-05-03 03:11:14,369 | INFO | fetch_stocks | Incremental fetch | ticker=ADANIENT.NS | from=2026-04-30
+2026-05-03 03:11:14,697 | INFO | fetch_stocks | No new data | ticker=ADANIENT.NS
+2026-05-03 03:11:15,198 | INFO | fetch_stocks | [30/50] Processing | ticker=ADANIPORTS.NS
+2026-05-03 03:11:16,046 | INFO | fetch_stocks | Incremental fetch | ticker=ADANIPORTS.NS | from=2026-04-30
+2026-05-03 03:11:16,353 | INFO | fetch_stocks | No new data | ticker=ADANIPORTS.NS
+2026-05-03 03:11:16,855 | INFO | fetch_stocks | [31/50] Processing | ticker=COALINDIA.NS
+2026-05-03 03:11:17,561 | INFO | fetch_stocks | Incremental fetch | ticker=COALINDIA.NS | from=2026-04-30
+2026-05-03 03:11:17,886 | INFO | fetch_stocks | No new data | ticker=COALINDIA.NS
+2026-05-03 03:11:18,388 | INFO | fetch_stocks | [32/50] Processing | ticker=DIVISLAB.NS
+2026-05-03 03:11:19,096 | INFO | fetch_stocks | Incremental fetch | ticker=DIVISLAB.NS | from=2026-04-30
+2026-05-03 03:11:19,437 | INFO | fetch_stocks | No new data | ticker=DIVISLAB.NS
+2026-05-03 03:11:19,939 | INFO | fetch_stocks | [33/50] Processing | ticker=DRREDDY.NS
+2026-05-03 03:11:20,647 | INFO | fetch_stocks | Incremental fetch | ticker=DRREDDY.NS | from=2026-04-30
+2026-05-03 03:11:20,948 | INFO | fetch_stocks | No new data | ticker=DRREDDY.NS
+2026-05-03 03:11:21,449 | INFO | fetch_stocks | [34/50] Processing | ticker=EICHERMOT.NS
+2026-05-03 03:11:22,150 | INFO | fetch_stocks | Incremental fetch | ticker=EICHERMOT.NS | from=2026-04-30
+2026-05-03 03:11:22,457 | INFO | fetch_stocks | No new data | ticker=EICHERMOT.NS
+2026-05-03 03:11:22,961 | INFO | fetch_stocks | [35/50] Processing | ticker=GRASIM.NS
+2026-05-03 03:11:23,693 | INFO | fetch_stocks | Incremental fetch | ticker=GRASIM.NS | from=2026-04-30
+2026-05-03 03:11:24,001 | INFO | fetch_stocks | No new data | ticker=GRASIM.NS
+2026-05-03 03:11:24,503 | INFO | fetch_stocks | [36/50] Processing | ticker=HEROMOTOCO.NS
+2026-05-03 03:11:25,221 | INFO | fetch_stocks | Incremental fetch | ticker=HEROMOTOCO.NS | from=2026-04-30
+2026-05-03 03:11:25,523 | INFO | fetch_stocks | No new data | ticker=HEROMOTOCO.NS
+2026-05-03 03:11:26,026 | INFO | fetch_stocks | [37/50] Processing | ticker=HINDALCO.NS
+2026-05-03 03:11:26,933 | INFO | fetch_stocks | Incremental fetch | ticker=HINDALCO.NS | from=2026-04-30
+2026-05-03 03:11:27,246 | INFO | fetch_stocks | No new data | ticker=HINDALCO.NS
+2026-05-03 03:11:27,747 | INFO | fetch_stocks | [38/50] Processing | ticker=JSWSTEEL.NS
+2026-05-03 03:11:28,450 | INFO | fetch_stocks | Incremental fetch | ticker=JSWSTEEL.NS | from=2026-04-30
+2026-05-03 03:11:28,757 | INFO | fetch_stocks | No new data | ticker=JSWSTEEL.NS
+2026-05-03 03:11:29,260 | INFO | fetch_stocks | [39/50] Processing | ticker=M&M.NS
+2026-05-03 03:11:29,952 | INFO | fetch_stocks | Incremental fetch | ticker=M&M.NS | from=2026-04-30
+2026-05-03 03:11:30,295 | INFO | fetch_stocks | No new data | ticker=M&M.NS
+2026-05-03 03:11:30,796 | INFO | fetch_stocks | [40/50] Processing | ticker=BRITANNIA.NS
+2026-05-03 03:11:31,516 | INFO | fetch_stocks | Incremental fetch | ticker=BRITANNIA.NS | from=2026-04-30
+2026-05-03 03:11:31,877 | INFO | fetch_stocks | No new data | ticker=BRITANNIA.NS
+2026-05-03 03:11:32,378 | INFO | fetch_stocks | [41/50] Processing | ticker=CIPLA.NS
+2026-05-03 03:11:33,096 | INFO | fetch_stocks | Incremental fetch | ticker=CIPLA.NS | from=2026-04-30
+2026-05-03 03:11:33,437 | INFO | fetch_stocks | No new data | ticker=CIPLA.NS
+2026-05-03 03:11:33,942 | INFO | fetch_stocks | [42/50] Processing | ticker=APOLLOHOSP.NS
+2026-05-03 03:11:34,638 | INFO | fetch_stocks | Incremental fetch | ticker=APOLLOHOSP.NS | from=2026-04-30
+2026-05-03 03:11:34,966 | INFO | fetch_stocks | No new data | ticker=APOLLOHOSP.NS
+2026-05-03 03:11:35,469 | INFO | fetch_stocks | [43/50] Processing | ticker=BAJAJ-AUTO.NS
+2026-05-03 03:11:36,212 | INFO | fetch_stocks | Incremental fetch | ticker=BAJAJ-AUTO.NS | from=2026-04-30
+2026-05-03 03:11:36,528 | INFO | fetch_stocks | No new data | ticker=BAJAJ-AUTO.NS
+2026-05-03 03:11:37,031 | INFO | fetch_stocks | [44/50] Processing | ticker=BPCL.NS
+2026-05-03 03:11:37,755 | INFO | fetch_stocks | Incremental fetch | ticker=BPCL.NS | from=2026-04-30
+2026-05-03 03:11:38,173 | INFO | fetch_stocks | No new data | ticker=BPCL.NS
+2026-05-03 03:11:38,676 | INFO | fetch_stocks | [45/50] Processing | ticker=SBILIFE.NS
+2026-05-03 03:11:39,392 | INFO | fetch_stocks | Incremental fetch | ticker=SBILIFE.NS | from=2026-04-30
+2026-05-03 03:11:39,695 | INFO | fetch_stocks | No new data | ticker=SBILIFE.NS
+2026-05-03 03:11:40,197 | INFO | fetch_stocks | [46/50] Processing | ticker=HDFCLIFE.NS
+2026-05-03 03:11:40,919 | INFO | fetch_stocks | Incremental fetch | ticker=HDFCLIFE.NS | from=2026-04-30
+2026-05-03 03:11:41,217 | INFO | fetch_stocks | No new data | ticker=HDFCLIFE.NS
+2026-05-03 03:11:41,718 | INFO | fetch_stocks | [47/50] Processing | ticker=INDUSINDBK.NS
+2026-05-03 03:11:42,409 | INFO | fetch_stocks | Incremental fetch | ticker=INDUSINDBK.NS | from=2026-04-30
+2026-05-03 03:11:42,734 | INFO | fetch_stocks | No new data | ticker=INDUSINDBK.NS
+2026-05-03 03:11:43,236 | INFO | fetch_stocks | [48/50] Processing | ticker=TATACONSUM.NS
+2026-05-03 03:11:43,999 | INFO | fetch_stocks | Incremental fetch | ticker=TATACONSUM.NS | from=2026-04-30
+2026-05-03 03:11:44,322 | INFO | fetch_stocks | No new data | ticker=TATACONSUM.NS
+2026-05-03 03:11:44,823 | INFO | fetch_stocks | [49/50] Processing | ticker=UPL.NS
+2026-05-03 03:11:45,528 | INFO | fetch_stocks | Incremental fetch | ticker=UPL.NS | from=2026-04-30
+2026-05-03 03:11:45,851 | INFO | fetch_stocks | No new data | ticker=UPL.NS
+2026-05-03 03:11:46,353 | INFO | fetch_stocks | [50/50] Processing | ticker=VEDL.NS
+2026-05-03 03:11:47,068 | INFO | fetch_stocks | Incremental fetch | ticker=VEDL.NS | from=2026-04-30
+2026-05-03 03:11:47,425 | INFO | fetch_stocks | No new data | ticker=VEDL.NS
+2026-05-03 03:11:47,930 | INFO | fetch_stocks | === Fetch complete | total_rows=0 ===
+2026-05-03 03:11:47,930 | WARNING | fetch_stocks | No new data or errors: ['RELIANCE.NS', 'TCS.NS', 'HDFCBANK.NS', 'INFY.NS', 'ICICIBANK.NS', 'HINDUNILVR.NS', 'ITC.NS', 'SBIN.NS', 'BHARTIARTL.NS', 'KOTAKBANK.NS', 'LT.NS', 'AXISBANK.NS', 'ASIANPAINT.NS', 'MARUTI.NS', 'TITAN.NS', 'SUNPHARMA.NS', 'ULTRACEMCO.NS', 'BAJFINANCE.NS', 'WIPRO.NS', 'NESTLEIND.NS', 'POWERGRID.NS', 'NTPC.NS', 'TECHM.NS', 'HCLTECH.NS', 'ONGC.NS', 'TATAMOTORS.NS', 'TATASTEEL.NS', 'BAJAJFINSV.NS', 'ADANIENT.NS', 'ADANIPORTS.NS', 'COALINDIA.NS', 'DIVISLAB.NS', 'DRREDDY.NS', 'EICHERMOT.NS', 'GRASIM.NS', 'HEROMOTOCO.NS', 'HINDALCO.NS', 'JSWSTEEL.NS', 'M&M.NS', 'BRITANNIA.NS', 'CIPLA.NS', 'APOLLOHOSP.NS', 'BAJAJ-AUTO.NS', 'BPCL.NS', 'SBILIFE.NS', 'HDFCLIFE.NS', 'INDUSINDBK.NS', 'TATACONSUM.NS', 'UPL.NS', 'VEDL.NS']
