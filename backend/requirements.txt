@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+supabase
+python-dotenv
+python-jose
+passlib
+bcrypt
+httpx

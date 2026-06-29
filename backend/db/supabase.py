@@ -1,16 +1,14 @@
-import os
 from supabase import create_client, Client
-from dotenv import load_dotenv
-from pathlib import Path
+from core.config import settings
 
-# Get path to backend/.env
-env_path = Path(__file__).resolve().parent.parent / ".env"
-load_dotenv(dotenv_path=env_path)
+# Anon client — respects RLS (user-facing requests)
+supabase: Client = create_client(
+    settings.supabase_url,
+    settings.supabase_publishable_key,
+)
 
-SUPABASE_URL = os.getenv("SUPABASE_URL")
-SUPABASE_KEY = os.getenv("SUPABASE_KEY")
-
-if not SUPABASE_URL or not SUPABASE_KEY:
-    raise ValueError("Missing Supabase credentials in .env")
-
-supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
+# Service role — bypasses RLS (admin/backend writes only)
+supabase_admin: Client = create_client(
+    settings.supabase_url,
+    settings.supabase_secret_key,
+)
